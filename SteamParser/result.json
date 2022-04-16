@@ -1,0 +1,602 @@
+[
+    {
+        "title": "ARK: Survival Evolved",
+        "release_date": " 27 Aug, 2017",
+        "reviews_count": 411976,
+        "genres": "Open World Survival Craft, Survival, Open World, Multiplayer, Dinosaurs, Crafting, Building, Adventure, Base Building, Co-op, Action, First-Person, Sandbox, Massively Multiplayer, Singleplayer, Early Access, RPG, Dragons, Sci-fi, Indie"
+    },
+    {
+        "title": "DayZ",
+        "release_date": " 2018 年 12 月 13 日",
+        "reviews_count": 249818,
+        "genres": "生存, 僵尸, 多人, 开放世界, 动作, 玩家对战, 射击, 大型多人在线, 恐怖, 模拟, 后末日, 抢先体验, 第一人称射击, 第一人称, 生存恐怖, 沙盒, 冒险, 合作, 氛围, 独立"
+    },
+    {
+        "title": "Rust",
+        "release_date": " 8 Feb, 2018",
+        "reviews_count": 622071,
+        "genres": "Survival, Crafting, Multiplayer, Open World, Open World Survival Craft, Building, Sandbox, PvP, Adventure, First-Person, Action, FPS, Nudity, Co-op, Shooter, Online Co-Op, Indie, Early Access, Post-apocalyptic, Simulation"
+    },
+    {
+        "title": "No Man's Sky",
+        "release_date": " 12 Aug, 2016",
+        "reviews_count": 177655,
+        "genres": "Open World, Open World Survival Craft, Space, Exploration, Sci-fi, Survival, Procedural Generation, Adventure, First-Person, Sandbox, Singleplayer, Multiplayer, Atmospheric, Crafting, Space Sim, Indie, Action, Simulation, FPS, Great Soundtrack"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS",
+        "release_date": " 21 Dec, 2017",
+        "reviews_count": 2003573,
+        "genres": "Survival, Shooter, Multiplayer, Battle Royale, FPS, PvP, Third-Person Shooter, Action, Online Co-Op, Tactical, Co-op, First-Person, Strategy, Early Access, Competitive, Third Person, Team-Based, Difficult, Simulation, Stealth"
+    },
+    {
+        "title": "Project Zomboid",
+        "release_date": " 8 Nov, 2013",
+        "reviews_count": 70085,
+        "genres": "Survival, Zombies, Open World, Open World Survival Craft, Multiplayer, Sandbox, Post-apocalyptic, Crafting, Co-op, Indie, Simulation, RPG, Building, Survival Horror, Realistic, Isometric, Singleplayer, Early Access, 2D, Adventure"
+    },
+    {
+        "title": "NARAKA: BLADEPOINT",
+        "release_date": " 11 Aug, 2021",
+        "reviews_count": 87547,
+        "genres": "Battle Royale, Sexual Content, Multiplayer, Martial Arts, Survival, PvP, Hack and Slash, Third Person, Parkour, Action, Massively Multiplayer, Nudity, Violent, Swordplay, Gore, Character Customization, Fighting, Female Protagonist, Adventure, Anime"
+    },
+    {
+        "title": "Hunt: Showdown",
+        "release_date": " 27 Aug, 2019",
+        "reviews_count": 97600,
+        "genres": "Hunting, Dark, Tactical, FPS, Horror, Multiplayer, Western, Survival, Perma Death, PvP, Open World, Shooter, Zombies, Atmospheric, Battle Royale, Violent, Team-Based, Online Co-Op, First-Person, Action"
+    },
+    {
+        "title": "Valheim: 英灵神殿",
+        "release_date": " 2021 年 2 月 2 日",
+        "reviews_count": 294104,
+        "genres": "开放世界生存制作, 生存, 在线合作, 开放世界, 多人, 建造, 制作, 探索, 合作, 基地建设, 沙盒, 冒险, 神话, 角色扮演, 航海, 抢先体验, 动作, 独立, 玩家对战, 钓鱼"
+    },
+    {
+        "title": "Raft",
+        "release_date": " 23 May, 2018",
+        "reviews_count": 142418,
+        "genres": "Survival, Open World Survival Craft, Multiplayer, Co-op, Crafting, Open World, Building, Base Building, Online Co-Op, Adventure, Sandbox, Early Access, First-Person, Singleplayer, Underwater, Simulation, Action, Indie, Strategy, Massively Multiplayer"
+    },
+    {
+        "title": "The Forest",
+        "release_date": " 30 Apr, 2018",
+        "reviews_count": 302081,
+        "genres": "Open World Survival Craft, Survival, Open World, Horror, Crafting, Adventure, Building, Survival Horror, First-Person, Action, Exploration, Sandbox, Atmospheric, Singleplayer, Simulation, Indie, Realistic, Gore, Early Access, Zombies"
+    },
+    {
+        "title": "Risk of Rain 2",
+        "release_date": " 11 Aug, 2020",
+        "reviews_count": 130818,
+        "genres": "Third-Person Shooter, Action Roguelike, Multiplayer, Action, Roguelite, Co-op, Looter Shooter, Roguelike, Loot, Shooter, Online Co-Op, Difficult, Third Person, Indie, Survival, Singleplayer, Soundtrack, Great Soundtrack, Early Access, Bullet Hell"
+    },
+    {
+        "title": "Dread Hunger",
+        "release_date": " 26 Jan, 2022",
+        "reviews_count": 18169,
+        "genres": "Multiplayer, Survival, Online Co-Op, Social Deduction, Co-op, Psychological, PvP, Team-Based, Horror, Indie, Funny, Strategy, Action, Gore, Difficult, First-Person, Dark, Blood, Adventure, Atmospheric"
+    },
+    {
+        "title": "Empyrion - Galactic Survival",
+        "release_date": " 5 Aug, 2020",
+        "reviews_count": 23341,
+        "genres": "Exploration, Open World, Open World Survival Craft, Space, Sandbox, Survival, Crafting, Building, Third Person, Sci-fi, PvP, PvE, Multiplayer, First-Person, Aliens, Strategy, Online Co-Op, Singleplayer, Action, Adventure"
+    },
+    {
+        "title": "The Planet Crafter",
+        "release_date": " 24 Mar, 2022",
+        "reviews_count": 5820,
+        "genres": "Open World Survival Craft, Base Building, Crafting, Open World, Exploration, Space, Singleplayer, First-Person, Sci-fi, Sandbox, Futuristic, Survival, Resource Management, Automation, Mars, Immersive Sim, Multiplayer, Adventure, Colorful, Early Access"
+    },
+    {
+        "title": "Don't Starve Together",
+        "release_date": " 21 Apr, 2016",
+        "reviews_count": 216142,
+        "genres": "Exploration, Roguelite, Open World Survival Craft, Sandbox, Crafting, Survival, Difficult, Strategy, 2D, Funny, Horror, Open World, Action, Simulation, Atmospheric, Adventure, Survival Horror, Multiplayer, PvP, Online Co-Op"
+    },
+    {
+        "title": "RimWorld",
+        "release_date": " 2018 年 10 月 17 日",
+        "reviews_count": 107595,
+        "genres": "殖民模拟, 基地建设, 生存, 策略, 管理, 沙盒, 建造, 模拟, 城市营造, 单人, 程序生成, 开放世界, 可模组化, 2D, 科幻, 独立, 战术角色扮演, 太空, 西部, 卡通风格"
+    },
+    {
+        "title": "War Thunder",
+        "release_date": " 15 Aug, 2013",
+        "reviews_count": 292334,
+        "genres": "Free to Play, Vehicular Combat, Combat, VR, World War II, Naval Combat, Third-Person Shooter, Third Person, Modern, Cold War, Simulation, War, Flight, Shooter, Tanks, Military, Action, Massively Multiplayer, Realistic, Historical"
+    },
+    {
+        "title": "Factorio",
+        "release_date": " 14 Aug, 2020",
+        "reviews_count": 108410,
+        "genres": "Automation, Base Building, Resource Management, Sandbox, Crafting, Strategy, Multiplayer, Survival, Management, Open World, Co-op, Building, 2D, Casual, Moddable, Singleplayer, Simulation, Trains, Pixel Graphics, City Builder"
+    },
+    {
+        "title": "Black Desert",
+        "release_date": " 25 Jul, 2019",
+        "reviews_count": 40171,
+        "genres": "MMORPG, Massively Multiplayer, RPG, Open World, Character Customization, Adventure, Fantasy, Action, Strategy, 3D, Simulation, Atmospheric, Crafting, Cooking, Magic, Medieval, PvP, Multiplayer, War, Combat"
+    },
+    {
+        "title": "Risk of Rain 2: Survivors of the Void",
+        "release_date": " 1 Mar, 2022",
+        "reviews_count": 3569,
+        "genres": "Action, Indie, Great Soundtrack, Co-op, Action Roguelike, Multiplayer, Third-Person Shooter, Roguelike, Looter Shooter, Difficult, Singleplayer, Survival"
+    },
+    {
+        "title": "Satisfactory",
+        "release_date": " 8 Jun, 2020",
+        "reviews_count": 80997,
+        "genres": "Base Building, Automation, Open World, Crafting, Multiplayer, Co-op, Resource Management, Building, Sandbox, Exploration, Adventure, Early Access, Simulation, Strategy, Open World Survival Craft, Survival, First-Person, Indie, Sci-fi, Singleplayer"
+    },
+    {
+        "title": "Vampire Survivors",
+        "release_date": " 17 Dec, 2021",
+        "reviews_count": 74955,
+        "genres": "Action Roguelike, Pixel Graphics, Bullet Hell, Casual, 2D, Action, Indie, RPG, Roguelite, Vampire, Action RPG, Singleplayer, Controller, Score Attack, Arcade, Early Access, Dark Fantasy, Retro, Roguelike, 1980s"
+    },
+    {
+        "title": "Midnight Ghost Hunt",
+        "release_date": " 2022 年 3 月 31 日",
+        "reviews_count": 2119,
+        "genres": "抢先体验, 战斗, 多人, 团队导向, 第一人称射击, 玩家对战, 第一人称, 灵异, 动作, 90 年代, 独立, 射击, 拟真, 科幻, 喜剧, 战术, 3D, 第三人称射击, 人工智能, 控制器"
+    },
+    {
+        "title": "Cultivation Tales",
+        "release_date": " 14 Apr, 2022",
+        "reviews_count": 2018,
+        "genres": "Early Access, Sandbox, Building, Action, Online Co-Op, Action Roguelike, Adventure, Tower Defense, Strategy, Action-Adventure, Massively Multiplayer, Survival, RPG, Open World Survival Craft, PvP, Open World, 3D Platformer, Third Person, Co-op, Action RPG"
+    },
+    {
+        "title": "DayZ Livonia",
+        "release_date": " 3 Dec, 2019",
+        "reviews_count": 929,
+        "genres": "Action, Adventure, Massively Multiplayer, Survival, Zombies, Open World, Violent"
+    },
+    {
+        "title": "Arma 3",
+        "release_date": " 12 Sep, 2013",
+        "reviews_count": 160546,
+        "genres": "Action, Military, Multiplayer, Simulation, Shooter, First-Person, Realistic, Open World, Tactical, FPS, War, Co-op, Strategy, Sandbox, Moddable, Combat, Singleplayer, Online Co-Op, Team-Based, Third-Person Shooter"
+    },
+    {
+        "title": "Path of Exile",
+        "release_date": " 23 Oct, 2013",
+        "reviews_count": 180123,
+        "genres": "Free to Play, Action RPG, Hack and Slash, RPG, Multiplayer, Loot, Massively Multiplayer, Dungeon Crawler, Character Customization, Inventory Management, MMORPG, Action, Fantasy, Adventure, Isometric, Singleplayer, Online Co-Op, PvP, Horror, Point & Click"
+    },
+    {
+        "title": "Deep Rock Galactic",
+        "release_date": " 2020 年 5 月 13 日",
+        "reviews_count": 102627,
+        "genres": "合作, 玩家对战环境, 第一人称射击, 刷宝, 探索, 刷宝射击游戏, 程序生成, 射击, 第一人称, 职业导向, 恐怖, 科幻, 动作, 太空, 战斗, 氛围, 动作类 Rogue, 黑暗, 生存, 开放世界"
+    },
+    {
+        "title": "Terraria",
+        "release_date": " 2011 年 5 月 16 日",
+        "reviews_count": 747289,
+        "genres": "开放世界生存制作, 沙盒, 生存, 2D, 多人, 冒险, 制作, 像素图形, 建造, 探索, 合作, 开放世界, 独立, 在线合作, 动作, 角色扮演, 单人, 重玩价值, 平台游戏, 氛围"
+    },
+    {
+        "title": "The Day Before",
+        "release_date": " ⚡June 21, 2022 — Add to Wishlist!",
+        "reviews_count": "",
+        "genres": "Open World, Zombies, Survival, Multiplayer, Post-apocalyptic, Massively Multiplayer, Third-Person Shooter, Shooter, Action, Co-op, Adventure, Realistic, Singleplayer, Online Co-Op, Free to Play, Open World Survival Craft, PvP, Base Building, PvE, Building"
+    },
+    {
+        "title": "Baldur's Gate 3",
+        "release_date": " 6 Oct, 2020",
+        "reviews_count": 45016,
+        "genres": "Early Access, RPG, Choices Matter, Story Rich, Character Customization, CRPG, Co-op Campaign, Fantasy, Romance, Class-Based, Dark Fantasy, PvE, Narration, Stealth, Combat, Crafting, Isometric, Tutorial, Team-Based, Turn-Based Combat"
+    },
+    {
+        "title": "DEVOUR",
+        "release_date": " 28 Jan, 2021",
+        "reviews_count": 29941,
+        "genres": "Horror, Online Co-Op, Multiplayer, Survival Horror, Co-op, Survival, Dark, First-Person, Indie, Psychological Horror, Atmospheric, Difficult, Sexual Content, Singleplayer, Puzzle, Stealth, Gore, Action, Violent, FPS"
+    },
+    {
+        "title": "SCUM",
+        "release_date": " 29 Aug, 2018",
+        "reviews_count": 58448,
+        "genres": "Survival, Open World Survival Craft, Multiplayer, Open World, Zombies, Massively Multiplayer, Action, Early Access, Adventure, Crafting, Nudity, Realistic, Singleplayer, FPS, Violent, PvP, Third Person, Gore, Indie, RPG"
+    },
+    {
+        "title": "Left 4 Dead 2",
+        "release_date": " 16 Nov, 2009",
+        "reviews_count": 433972,
+        "genres": "Zombies, Co-op, FPS, Multiplayer, Shooter, Action, Online Co-Op, Survival, Horror, First-Person, Gore, Team-Based, Moddable, Survival Horror, Post-apocalyptic, Singleplayer, Adventure, Local Co-Op, Replay Value, Tactical"
+    },
+    {
+        "title": "City Car Driving",
+        "release_date": " 3 Nov, 2016",
+        "reviews_count": 14453,
+        "genres": "Simulation, Driving, Automobile Sim, Open World, Survival Horror, Realistic, Multiplayer, Singleplayer, Racing, First-Person, Moddable, Physics, Indie, VR, Family Friendly, Psychological Horror, Adventure, Education, Action, Casual"
+    },
+    {
+        "title": "Aircraft Carrier Survival",
+        "release_date": " 2022 年 4 月 20 日",
+        "reviews_count": "",
+        "genres": "模拟, 海战, 动作, 策略, 拟真, 生存, 探索, 二战, 经济, 重玩价值, 海军, 战争, 资源管理, 管理, 战术, 单人, 开放世界, 沙盒, 基地建设, 独立"
+    },
+    {
+        "title": "Among Us",
+        "release_date": " 2018 年 11 月 16 日",
+        "reviews_count": 543041,
+        "genres": "多人, 社交推理, 在线合作, 太空, 生存, 2D, 欢乐, 心理, 合作, 卡通风格, 社交聚会游戏, 本地多人, 休闲, 动作, 科幻, 玩家对战, 彩色, 小游戏, 外星人, 俯视"
+    },
+    {
+        "title": "7 Days to Die",
+        "release_date": " 13 Dec, 2013",
+        "reviews_count": 149026,
+        "genres": "Survival, Zombies, Voxel, Open World, Open World Survival Craft, Multiplayer, Post-apocalyptic, Base Building, Exploration, Online Co-Op, Simulation, Sandbox, Building, Strategy, Character Customization, FPS, Procedural Generation, Tower Defense, Action, Early Access"
+    },
+    {
+        "title": "Remnant: From the Ashes",
+        "release_date": " 2019 年 8 月 19 日",
+        "reviews_count": 34464,
+        "genres": "类魂系列, 动作, 角色扮演, 冒险, 合作, 第三人称射击, 多人, 在线合作, 射击, 后末日, 生存, 困难, 单人, 洛夫克拉夫特式, 暴力, 黑暗奇幻, 重玩价值, 恐怖, 程序生成, 氛围"
+    },
+    {
+        "title": "Deadside",
+        "release_date": " 14 Apr, 2020",
+        "reviews_count": 20892,
+        "genres": "Survival, Open World, Multiplayer, Massively Multiplayer, Open World Survival Craft, Action, Adventure, Base Building, Crafting, Post-apocalyptic, Shooter, Early Access, PvP, Indie, FPS, Realistic, Singleplayer, Violent, Gore, First-Person"
+    },
+    {
+        "title": "Core Keeper",
+        "release_date": " 8 Mar, 2022",
+        "reviews_count": 8214,
+        "genres": "Early Access, Online Co-Op, Sandbox, Pixel Graphics, Adventure, 2D, Procedural Generation, Dungeon Crawler, Farming Sim, Casual, Relaxing, Crafting, Cooking, Exploration, Simulation, Survival, Atmospheric, Building, Mining, Mystery"
+    },
+    {
+        "title": "Ghostrunner - 幽灵行者",
+        "release_date": " 2020 年 10 月 27 日",
+        "reviews_count": 30323,
+        "genres": "动作, 赛博朋克, 快节奏, 第一人称, 困难, 单人, 剑术, 未来, 暴力, 科幻, 砍杀, 动作冒险, 好评原声音轨, 冒险, 战斗, 后末日, 格斗, 策略, 射击, 互动小说"
+    },
+    {
+        "title": "Winter Survival",
+        "release_date": " Q2 2022",
+        "reviews_count": "",
+        "genres": "Survival, Exploration, Snow, Sandbox, Immersive Sim, First-Person, Fishing, Hunting, Choose Your Own Adventure, Action-Adventure, Base Building, Cooking, Choices Matter, Stealth, Crafting, Building, Nature, Physics, Open World, Walking Simulator"
+    },
+    {
+        "title": "Medieval Dynasty",
+        "release_date": " 23 Sep, 2021",
+        "reviews_count": 20793,
+        "genres": "Survival, Building, Open World, Medieval, Singleplayer, RPG, City Builder, Crafting, Simulation, Adventure, Sandbox, Colony Sim, Multiplayer, Resource Management, Realistic, Action, Exploration, Historical, First-Person, Early Access"
+    },
+    {
+        "title": "Hyper Light Breaker",
+        "release_date": " 2023",
+        "reviews_count": "",
+        "genres": "Action, Adventure, RPG, Action-Adventure, Action RPG, Stylized, 3D, Third Person, Open World, Atmospheric, Post-apocalyptic, Sci-fi, Dark Fantasy, Fantasy, Surreal, Character Customization, Combat, Controller, Hack and Slash, PvE"
+    },
+    {
+        "title": "Space Engineers",
+        "release_date": " 28 Feb, 2019",
+        "reviews_count": 80626,
+        "genres": "Space, Sandbox, Building, Multiplayer, Open World Survival Craft, Simulation, Survival, Open World, Physics, Crafting, Destruction, Co-op, Indie, Futuristic, Sci-fi, Singleplayer, Action, Strategy, Adventure, Early Access"
+    },
+    {
+        "title": "The Cycle: Frontier",
+        "release_date": " 2022",
+        "reviews_count": "",
+        "genres": "Free to Play, FPS, Multiplayer, PvP, PvE, Competitive, Action, Sci-fi, First-Person, Shooter, Online Co-Op, Looter Shooter, Space, Futuristic, Co-op, Massively Multiplayer, Team-Based, Character Customization, Combat, 3D"
+    },
+    {
+        "title": "Half-Life: Alyx",
+        "release_date": " 23 Mar, 2020",
+        "reviews_count": 59700,
+        "genres": "VR, FPS, Story Rich, Horror, Shooter, Female Protagonist, First-Person, Action, Singleplayer, Zombies, Sci-fi, Atmospheric, Beautiful, Adventure, Aliens, Futuristic, Psychological Horror, Memes, Great Soundtrack, Gore"
+    },
+    {
+        "title": "GTFO",
+        "release_date": " 9 Dec, 2021",
+        "reviews_count": 27073,
+        "genres": "Online Co-Op, Horror, Co-op, FPS, Shooter, Difficult, Survival Horror, Multiplayer, Action, Stealth, Tactical, Team-Based, Gore, First-Person, Character Customization, PvE, Zombies, Violent, Atmospheric, Replay Value"
+    },
+    {
+        "title": "Subnautica",
+        "release_date": " 23 Jan, 2018",
+        "reviews_count": 174324,
+        "genres": "Open World Survival Craft, Survival, Open World, Exploration, Underwater, Crafting, Horror, Base Building, Singleplayer, Adventure, First-Person, Sci-fi, Sandbox, Aliens, Atmospheric, Survival Horror, Action, Multiplayer, Indie, Early Access"
+    },
+    {
+        "title": "Conan Exiles",
+        "release_date": " 8 May, 2018",
+        "reviews_count": 53272,
+        "genres": "Survival, Open World, Building, Nudity, Open World Survival Craft, Crafting, Multiplayer, RPG, Sandbox, Massively Multiplayer, Action, Adventure, Online Co-Op, Exploration, Violent, Co-op, Singleplayer, Fantasy, PvP, Gore"
+    },
+    {
+        "title": "ARK: Genesis Season Pass",
+        "release_date": " 8 Aug, 2019",
+        "reviews_count": 4578,
+        "genres": "Adventure, Massively Multiplayer, Survival, Action, RPG, Open World, Indie, Dinosaurs, Multiplayer, Crafting, Base Building, Violent, Singleplayer, Sandbox, Building, Sci-fi, Open World Survival Craft, Co-op, Dragons, First-Person"
+    },
+    {
+        "title": "ASTRONEER",
+        "release_date": " 5 Feb, 2019",
+        "reviews_count": 77683,
+        "genres": "Multiplayer, Open World, Open World Survival Craft, Space, Survival, Exploration, Base Building, Co-op, Sandbox, Adventure, Building, Crafting, Sci-fi, Colorful, Singleplayer, Simulation, Third Person, Automation, Atmospheric, Indie"
+    },
+    {
+        "title": "Five Nights at Freddy's: Security Breach",
+        "release_date": " 16 Dec, 2021",
+        "reviews_count": 32064,
+        "genres": "Horror, Survival Horror, Singleplayer, Robots, Stealth, Exploration, Multiple Endings, First-Person, 3D, Action, Indie, Adventure, Artificial Intelligence, Story Rich, Thriller, Action-Adventure, Colorful, Family Friendly, Cartoony, Sexual Content"
+    },
+    {
+        "title": "Deliver Us Mars",
+        "release_date": " Coming Soon",
+        "reviews_count": "",
+        "genres": "Mars, Story Rich, Sci-fi, Singleplayer, Puzzle Platformer, Realistic, Action-Adventure, Female Protagonist, Space, Cinematic, Robots, Platformer, Action, Third Person, First-Person, Atmospheric, Post-apocalyptic, Linear, Thriller, Emotional"
+    },
+    {
+        "title": "RimWorld - Ideology",
+        "release_date": " 20 Jul, 2021",
+        "reviews_count": 2338,
+        "genres": "Strategy, Indie, Simulation, Colony Sim, Base Building, Survival"
+    },
+    {
+        "title": "Rooted",
+        "release_date": " TBA - Wishlist & Follow !",
+        "reviews_count": "",
+        "genres": "Simulation, Survival, Adventure, Exploration, Post-apocalyptic, Realistic, America, Strategy, Action-Adventure, Sandbox, City Builder, Resource Management, Online Co-Op, Immersive Sim, Shooter, Nature, First-Person, 3D, Third Person, Hunting"
+    },
+    {
+        "title": "Scrap Mechanic",
+        "release_date": " 19 Jan, 2016",
+        "reviews_count": 76778,
+        "genres": "Building, Sandbox, Survival, Open World, Multiplayer, Crafting, Physics, Base Building, Co-op, Singleplayer, First-Person, Third Person, Adventure, Funny, Simulation, Early Access, Action, Indie, Moddable, Online Co-Op"
+    },
+    {
+        "title": "Albion Online",
+        "release_date": " 16 May, 2018",
+        "reviews_count": 46523,
+        "genres": "Free to Play, MMORPG, Open World, Massively Multiplayer, Sandbox, RPG, Crafting, Multiplayer, PvP, Survival, PvE, Loot, Medieval, Economy, Fantasy, Co-op, Strategy, Action, Singleplayer, Difficult"
+    },
+    {
+        "title": "Settlement Survival",
+        "release_date": " 11 Oct, 2021",
+        "reviews_count": 2971,
+        "genres": "City Builder, Building, Management, Survival, Colony Sim, Simulation, Sandbox, Exploration, Indie, Early Access, Strategy, Resource Management, Base Building, Agriculture, Economy, Medieval, 3D, Colorful, Pixel Graphics, Hand-drawn"
+    },
+    {
+        "title": "Dune: Spice Wars",
+        "release_date": " 26 Apr, 2022",
+        "reviews_count": "",
+        "genres": "Diplomacy, Economy, Political, Building, Base Building, War, RTS, Tactical, 4X, Early Access, Real-Time with Pause, Real Time Tactics, Strategy, Resource Management, Grand Strategy, Politics, Combat, Military, Exploration, Lore-Rich"
+    },
+    {
+        "title": "Projekt Z",
+        "release_date": " TBA",
+        "reviews_count": "",
+        "genres": "Zombies, FPS, Co-op Campaign, Co-op, Online Co-Op, Action, Hero Shooter, Atmospheric, Horror, World War II, Indie, Post-apocalyptic, Crafting, Adventure, Realistic, Strategy, PvE, First-Person, Inventory Management, Team-Based"
+    },
+    {
+        "title": "Sengoku Dynasty",
+        "release_date": " 2022",
+        "reviews_count": "",
+        "genres": "Adventure, RPG, Simulation, Life Sim, Exploration, 3D, First-Person, Atmospheric, Crafting, Historical, Open World, Story Rich, Co-op, Multiplayer, Online Co-Op, Singleplayer, Colony Sim, Sandbox, Ninja, Building"
+    },
+    {
+        "title": "Marauders",
+        "release_date": " Coming Soon",
+        "reviews_count": "",
+        "genres": "Action, FPS, Tactical, Space Sim, 1990's, Alternate History, Shooter, Looter Shooter, Combat, Space, First-Person, Inventory Management, Realistic, Military, Atmospheric, Crafting, Post-apocalyptic, Loot, PvP, Gun Customization"
+    },
+    {
+        "title": "World War Z: Aftermath",
+        "release_date": " 21 Sep, 2021",
+        "reviews_count": 5515,
+        "genres": "Zombies, Action, Online Co-Op, Multiplayer, Co-op, Shooter, Singleplayer, Third-Person Shooter, PvE, FPS, Character Customization, Gun Customization, Post-apocalyptic, Survival Horror, First-Person, Gore, Third Person, Combat, Violent, Class-Based"
+    },
+    {
+        "title": "Northgard",
+        "release_date": " 7 Mar, 2018",
+        "reviews_count": 33632,
+        "genres": "City Builder, RTS, Strategy, Colony Sim, Resource Management, Multiplayer, Medieval, Survival, Real-Time, Simulation, Mythology, Indie, War, Co-op, Singleplayer, Management, 4X, Vikings, Atmospheric, Adventure"
+    },
+    {
+        "title": "ICARUS",
+        "release_date": " 3 Dec, 2021",
+        "reviews_count": 19363,
+        "genres": "Survival, Open World Survival Craft, Online Co-Op, Multiplayer, Crafting, Base Building, Exploration, Building, Open World, Co-op, First-Person, PvE, Space, Mining, Realistic, Third Person, Sandbox, Adventure, Nature, Science"
+    },
+    {
+        "title": "The Surge 2",
+        "release_date": " 23 Sep, 2019",
+        "reviews_count": 4541,
+        "genres": "Souls-like, RPG, Action, Violent, Open World, Difficult, Sci-fi, Singleplayer, Third Person, Cyberpunk, Character Customization, Multiplayer, Gore, Mechs, Hack and Slash, Action RPG, Female Protagonist, Robots, Metroidvania, Nudity"
+    },
+    {
+        "title": "Forever Skies",
+        "release_date": " Coming 2022. Wishlist and Follow!",
+        "reviews_count": "",
+        "genres": "Early Access, Survival, Adventure, Base Building, Sandbox, Exploration, Post-apocalyptic, FPS, Realistic, Action, Sci-fi, Action-Adventure, Open World Survival Craft, Inventory Management, Crafting, Procedural Generation, Science, Resource Management, 3D, First-Person"
+    },
+    {
+        "title": "Oxygen Not Included",
+        "release_date": " 30 Jul, 2019",
+        "reviews_count": 76938,
+        "genres": "Colony Sim, Base Building, Survival, Resource Management, Building, Singleplayer, Management, Simulation, 2D, Sandbox, Strategy, Space, Indie, Sci-fi, Exploration, Open World, Difficult, Adventure, Early Access, Multiplayer"
+    },
+    {
+        "title": "Car Mechanic Simulator 2021",
+        "release_date": " 11 Aug, 2021",
+        "reviews_count": 12115,
+        "genres": "Simulation, Automobile Sim, Sandbox, Racing, Realistic, Moddable, 3D, Driving, Immersive Sim, First-Person, Puzzle, Education, Singleplayer, Atmospheric, Adventure, Open World, Minigames, Strategy, Indie, Great Soundtrack"
+    },
+    {
+        "title": "Propnight",
+        "release_date": " 1 Dec, 2021",
+        "reviews_count": 8743,
+        "genres": "Multiplayer, Horror, Action, Survival Horror, 3D, First-Person, Online Co-Op, Third Person, PvP, Co-op, Stylized, Combat, Asynchronous Multiplayer, Funny, Survival, Controller"
+    },
+    {
+        "title": "Subnautica: Below Zero",
+        "release_date": " 13 May, 2021",
+        "reviews_count": 59219,
+        "genres": "Open World Survival Craft, Survival, Underwater, Open World, Singleplayer, Exploration, Adventure, Base Building, Horror, Crafting, First-Person, Aliens, Survival Horror, Sci-fi, Early Access, Story Rich, Atmospheric, Great Soundtrack, Sandbox, Multiplayer"
+    },
+    {
+        "title": "Will To Live Online",
+        "release_date": " 5 Apr, 2018",
+        "reviews_count": 12071,
+        "genres": "Survival, Multiplayer, Open World, Free to Play, Post-apocalyptic, Open World Survival Craft, Massively Multiplayer, FPS, Action, MMORPG, Shooter, Crafting, First-Person, RPG, Early Access, Exploration, Violent, Atmospheric, Indie, Gore"
+    },
+    {
+        "title": "Hunt: Showdown - Meridian Turncoat",
+        "release_date": " 24 Mar, 2022",
+        "reviews_count": 74,
+        "genres": "Action, Gore, Violent, Team-Based, Survival Horror, First-Person, Horror, Multiplayer, Survival, Shooter, FPS, America, Hunting, Perma Death, Beautiful, Character Customization, Atmospheric, Combat, Lore-Rich, Gun Customization"
+    },
+    {
+        "title": "Insurgency: Sandstorm",
+        "release_date": " 12 Dec, 2018",
+        "reviews_count": 70942,
+        "genres": "FPS, Realistic, Shooter, Military, Multiplayer, Tactical, Action, First-Person, Online Co-Op, War, Co-op, Violent, Gore, Atmospheric, Difficult, Simulation, Open World, Massively Multiplayer, Indie, Choices Matter"
+    },
+    {
+        "title": "The Ascent",
+        "release_date": " 29 Jul, 2021",
+        "reviews_count": 11540,
+        "genres": "Top-Down Shooter, Cyberpunk, Action, RPG, Shooter, Open World, Indie, Co-op, Adventure, Isometric, Action RPG, Violent, Gore, Dystopian , Twin Stick Shooter, Futuristic, Character Customization, Split Screen, PvE, Controller"
+    },
+    {
+        "title": "Frostpunk 2",
+        "release_date": " TBA",
+        "reviews_count": "",
+        "genres": "Strategy, Survival, City Builder, Simulation, Resource Management, Post-apocalyptic, Singleplayer, Sequel, Violent, Gore, Nudity, Steampunk, Atmospheric, Great Soundtrack"
+    },
+    {
+        "title": "RimWorld - Royalty",
+        "release_date": " 24 Feb, 2020",
+        "reviews_count": 1691,
+        "genres": "Strategy, Indie, Simulation, Base Building, Sandbox, Colony Sim, City Builder, Survival, Management, Singleplayer, Space, Sci-fi"
+    },
+    {
+        "title": "Nobody - The Turnaround",
+        "release_date": " 2022",
+        "reviews_count": "",
+        "genres": "Simulation, Life Sim, Realistic, Survival, Sandbox, Strategy, Open World, Choices Matter, Emotional, Management, Resource Management, Romance, Character Customization, Multiple Endings, Story Rich, Adventure, Atmospheric, Singleplayer, Choose Your Own Adventure, 3D"
+    },
+    {
+        "title": "Wartales",
+        "release_date": " 1 Dec, 2021",
+        "reviews_count": 4331,
+        "genres": "RPG, Open World, Turn-Based Strategy, Adventure, Medieval, Strategy, Exploration, Singleplayer, Early Access, Indie, Tactical RPG, Story Rich, Survival, 3D, Turn-Based Combat, Sandbox, Violent, Fantasy, Turn-Based, Tactical"
+    },
+    {
+        "title": "IL-2 Sturmovik: Battle of Stalingrad",
+        "release_date": " 22 Oct, 2014",
+        "reviews_count": 5388,
+        "genres": "Simulation, Flight, World War II, Realistic, Historical, Action, VR, War, Multiplayer, Singleplayer, Military, Atmospheric, TrackIR, Tanks, First-Person, Open World, Massively Multiplayer, FPS, Shooter, Controller"
+    },
+    {
+        "title": "Orcs Must Die! 3",
+        "release_date": " 23 Jul, 2021",
+        "reviews_count": 5550,
+        "genres": "Tower Defense, Co-op, Strategy, Third-Person Shooter, PvE, Action, 3D, Funny, Third Person, Adventure, Fantasy, Combat, Online Co-Op, Multiplayer, Stylized, Co-op Campaign, Physics, Singleplayer, Comedy, Cartoony"
+    },
+    {
+        "title": "The Wandering Village",
+        "release_date": " Summer 2022",
+        "reviews_count": "",
+        "genres": "Early Access, Cute, Roguelite, Farming Sim, Life Sim, Colony Sim, Survival, City Builder, Resource Management, Management, 2.5D, Building, Strategy, Simulation, Base Building, Sandbox, Relaxing, Roguelike, Atmospheric, Automation"
+    },
+    {
+        "title": "Stranded Deep",
+        "release_date": " 23 Jan, 2015",
+        "reviews_count": 32406,
+        "genres": "Open World Survival Craft, Survival, Multiplayer, Open World, Crafting, First-Person, Adventure, Exploration, Realistic, Singleplayer, Building, Sandbox, Co-op, Simulation, Early Access, Underwater, Action, Atmospheric, Indie, Strategy"
+    },
+    {
+        "title": "Apex Legends™",
+        "release_date": " 4 Nov, 2020",
+        "reviews_count": 434961,
+        "genres": "Free to Play, Battle Royale, Multiplayer, Shooter, First-Person, FPS, PvP, Action, Hero Shooter, Team-Based, Tactical, Survival, Character Customization, Funny, Sci-fi, Loot, Lore-Rich, Cyberpunk, Cinematic, Co-op"
+    },
+    {
+        "title": "Grim Dawn",
+        "release_date": " 25 Feb, 2016",
+        "reviews_count": 61722,
+        "genres": "Action RPG, Dark Fantasy, Hack and Slash, RPG, Loot, Dungeon Crawler, Co-op, Dark, Multiplayer, Singleplayer, Fantasy, Action, Adventure, Isometric, Atmospheric, Post-apocalyptic, Indie, Zombies, Kickstarter, Crowdfunded"
+    },
+    {
+        "title": "Diplomacy is Not an Option",
+        "release_date": " 9 Feb, 2022",
+        "reviews_count": 2243,
+        "genres": "City Builder, Tower Defense, Strategy, Sandbox, Building, Survival, Base Building, RTS, Procedural Generation, Colorful, Stylized, Singleplayer, Combat, Medieval, 3D, Early Access, Action RTS, Indie, Violent, Action"
+    },
+    {
+        "title": "Frostpunk",
+        "release_date": " 24 Apr, 2018",
+        "reviews_count": 64245,
+        "genres": "City Builder, Survival, Strategy, Resource Management, Post-apocalyptic, Steampunk, Colony Sim, Building, Base Building, Simulation, Singleplayer, Management, Choices Matter, Atmospheric, Economy, Dark, RTS, Difficult, Great Soundtrack, Real-Time with Pause"
+    },
+    {
+        "title": "Stormworks: Build and Rescue",
+        "release_date": " 17 Sep, 2020",
+        "reviews_count": 23659,
+        "genres": "Sandbox, Flight, Open World, Building, Exploration, Programming, Sailing, Open World Survival Craft, Immersive Sim, Base Building, Survival, PvP, Character Customization, Tutorial, First-Person, Naval, Trains, Physics, Automation, Crafting"
+    },
+    {
+        "title": "Arma 3 Apex",
+        "release_date": " 11 Jul, 2016",
+        "reviews_count": 2229,
+        "genres": "Simulation, Action, Military, Multiplayer, Strategy, Open World, FPS, Sandbox, Tactical, Realistic, Co-op, Shooter, Singleplayer, Survival, First-Person, Online Co-Op, Third-Person Shooter, Atmospheric, Walking Simulator, RPG"
+    },
+    {
+        "title": "Solasta: Crown of the Magister - Lost Valley",
+        "release_date": " 14 Apr, 2022",
+        "reviews_count": 12,
+        "genres": "Adventure, RPG, Strategy, Team-Based, Fantasy, Indie, Tactical, Turn-Based Strategy, Story Rich, Class-Based, Singleplayer, Turn-Based Combat, CRPG, Character Customization, Choices Matter, Turn-Based Tactics, Dungeons & Dragons, Tactical RPG, Top-Down"
+    },
+    {
+        "title": "Dwarf Fortress",
+        "release_date": " time is subjective",
+        "reviews_count": "",
+        "genres": "2D, Pixel Graphics, Singleplayer, Colony Sim, City Builder, Tactical RPG, Base Building, Sandbox, Management, Open World, Difficult, Procedural Generation, Survival, RPG, Strategy, Simulation, Fantasy, Resource Management, Moddable, Violent"
+    },
+    {
+        "title": "Eternal Return",
+        "release_date": " 14 Oct, 2020",
+        "reviews_count": 40104,
+        "genres": "Free to Play, Anime, MOBA, Survival, Multiplayer, PvP, Top-Down, Strategy, Crafting, Combat, Tactical, Action, 3D, Indie, Character Customization, Experimental, Early Access, Point & Click, MMORPG, Horror"
+    },
+    {
+        "title": "Kenshi",
+        "release_date": " 6 Dec, 2018",
+        "reviews_count": 46183,
+        "genres": "Open World, Sandbox, RPG, Survival, Strategy, Building, Post-apocalyptic, Crafting, Base Building, Singleplayer, City Builder, Indie, Simulation, Management, Adventure, RTS, Ninja, Alternate History, Character Customization, Steampunk"
+    },
+    {
+        "title": "",
+        "release_date": "",
+        "reviews_count": "",
+        "genres": ""
+    },
+    {
+        "title": "Mortal Online 2",
+        "release_date": " 25 Jan, 2022",
+        "reviews_count": 5541,
+        "genres": "MMORPG, Sandbox, Character Customization, PvP, Open World, Exploration, RPG, First-Person, Fantasy, Medieval, Swordplay, Magic, Crafting, Survival, Adventure, Old School, Combat, Massively Multiplayer, Multiplayer, Gore"
+    },
+    {
+        "title": "This War of Mine",
+        "release_date": " 14 Nov, 2014",
+        "reviews_count": 63107,
+        "genres": "Survival, War, Atmospheric, Singleplayer, Strategy, Simulation, Choices Matter, Crafting, Base Building, Resource Management, Story Rich, Indie, Management, Emotional, Post-apocalyptic, Realistic, Drama, Psychological, Stealth, 2.5D"
+    },
+    {
+        "title": "Timberborn",
+        "release_date": " 15 Sep, 2021",
+        "reviews_count": 10510,
+        "genres": "Early Access, City Builder, Colony Sim, Base Building, Survival, Building, Management, Resource Management, Automation, Economy, Sandbox, Singleplayer, Post-apocalyptic, Agriculture, Strategy, Level Editor, 3D, Science, Top-Down, Voxel"
+    }
+]
