@@ -11,11 +11,11 @@ def get_html(url):
     return response.text
 
 def write_json(data):
-    with open('result.json', 'a', encoding='utf-8') as f:
+    with open('BundestagParser//result.json', 'a', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 def write_csv(data):
-    with open('result.csv', 'a', newline='', encoding='utf-8') as f:
+    with open('BundestagParser//result.csv', 'a', newline='', encoding='utf-8') as f:
         fields = ['name', 'fraction']
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writerows(data)

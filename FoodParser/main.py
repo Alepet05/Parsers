@@ -50,8 +50,7 @@ def get_products_data(html):
     
         products_info.append(product_info)
 
-    write_json(products_info)
-    write_csv(products_info)
+    return products_info
 
 def get_all_categories(html):
     soup = BeautifulSoup(html, 'lxml')
@@ -67,7 +66,9 @@ def main():
     for category in categories:
         url = 'https://health-diet.ru' + category.find('a', class_='mzr-tc-group-item-href').get('href')
         html = get_html(url)
-        get_products_data(html)
+        products_info = get_products_data(html)
+        write_json(products_info)
+        write_csv(products_info)
 
 if __name__ == '__main__':
     main()
