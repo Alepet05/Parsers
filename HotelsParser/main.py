@@ -8,7 +8,7 @@ def get_html(url):
     return response.text
 
 def write_json(data):
-    with open('result.json', 'a', encoding='utf-8') as f:
+    with open('HotelsParser//result.json', 'a', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 def get_hotel_info(hotel):
