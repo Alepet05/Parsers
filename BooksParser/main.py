@@ -1,3 +1,4 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -8,7 +9,7 @@ def get_html(url):
     return response.text
 
 def write_json(data):
-    with open('BooksParser//result.json', 'a', encoding='utf-8') as f:
+    with open('BooksParser//result2.json', 'a', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 def get_pagination(html):
@@ -32,9 +33,9 @@ def get_books_info(html):
         title = tds[0].find('a', class_='book-qtip').get_text(strip=True)
         author = tds[1].get_text(strip=True)
         publishing = tds[2].get_text(strip=True)
-        current_price = tds[3].find('span', class_='price-val').get_text(strip=True)
+        current_price = int(''.join(re.findall('\d+', tds[3].find('span', class_='price-val').get_text(strip=True))))
         try:
-            discount = tds[3].find('span', class_='price-val').get('title').split(' ')[0]
+            discount = int(re.search('\d+', tds[3].find('span', class_='price-val').get('title')).group())
         except:
             discount = 'Скидка отсутствует'
 
@@ -57,8 +58,7 @@ def main():
     html = get_html(url)
     pages_count = get_pagination(html)
 
-    for page in range(1, pages_count + 1):
-        print(page)
+    for page in range(1, pages_count):
         url = f'https://www.labirint.ru/genres/2308/?available=1&paperbooks=1&page=1&display=table&page={page}'
         html = get_html(url)
         books_info = get_books_info(html)
